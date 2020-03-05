@@ -19,5 +19,5 @@ pipeline {
                     sh 'curl -u admin:admin http://13.59.13.245:8888/manager/reload?path=/build'
                 }
             }
-            }
-        }
+          }
+      }        
