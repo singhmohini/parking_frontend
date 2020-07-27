@@ -11,4 +11,4 @@ COPY $WORKSPACE/build/static/js/*.js /usr/local/tomcat/webapps/build/static/js/
 EXPOSE 8080
 CMD ["catalina.sh", "run"]
 
-//writing comment demo
+//writing commentdemo
